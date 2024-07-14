@@ -4,7 +4,7 @@ Algoritmo barquito
 	Escribir "Apple"
 	
 	
-	Escribir "Mi barquito viene cargado de frutas que comiensan con la letra M "
+	Escribir "Mi barquito viene cargado de frutas que comiencen con la letra M "
 	Escribir "Melón"
 	
 FinAlgoritmo
